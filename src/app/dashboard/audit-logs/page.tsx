@@ -2,7 +2,7 @@
 import { redirect } from 'next/navigation';
 import Link from 'next/link';
 
-export default async function audit-logsPage() {
+export default async function AuditLogsPage() {
   const session = await auth();
   
   if (!session) {
