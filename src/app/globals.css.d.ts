@@ -1,0 +1,1 @@
+// This file is a dummy type declaration for CSS imports

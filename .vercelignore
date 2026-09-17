@@ -1,0 +1,5 @@
+﻿# Ignore parent Turbo config so Vercel doesn't detect Turbo
+../turbo.json
+../.turbo
+../package.json
+../package-lock.json
